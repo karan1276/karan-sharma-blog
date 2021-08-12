@@ -1,16 +1,13 @@
 module.exports = {
-  pathPrefix: "/leonids",
+  pathPrefix: "/karan-sharma-blog",
   siteMetadata: {
-    title: `Leonids`,
+    title: `Karan Sharma Blog`,
     author: {
-      name: `@ry_zou`,
+      name: `@karan1276`,
       summary: `web dev`,
     },
-    description: `A simple, fixed sidebar two columns Gatsby.js blog starter.`,
-    siteUrl: `https://renyuanz.github.io/leonids`,
-    social: {
-      twitter: `ry_zou`,
-    },
+    description: `My personal blog.`,
+    siteUrl: `https://karan1276.github.io/karan-sharma-blog`,
     defaultImage: "images/bg.jpeg",
   },
   plugins: [
